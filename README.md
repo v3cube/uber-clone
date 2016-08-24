@@ -1,5 +1,5 @@
-Uber App Clone, Uber App Script, Uber Clone
-===========================================
+Uber Clone Script
+=================
 The Uber app clone has been designed to fill in a void that other on-demand taxi services do not have; simply by adding features that are unique to this Uber clone only.  The features that we have on our Uber App Script include:
 -    Easy sign in and sign up facility for both user and driver
 -    The two different apps, the driver and the passenger app, along with the admin panel each have their individual set of features that sets them apart from other similar products in the market. 
