@@ -9,11 +9,11 @@ Uber clone taxi booking app has been designed to fill in a void that other Taxi 
 -  The GEO location features allow the app to be accessed from anywhere, any place, anytime
 -  Free launch, configuration and setup of the system on the platform of your choice
 -  An app that can be customised to the language and currency of your choice, depending on where you want to launch it
-For further details visit https://www.v3cube.com/uber-clone-overview/ and begin your journey into the world of the on-demand taxi app entrepreneurship.
--  Check uber clone app graphical flow https://www.v3cube.com/how-uber-clone-v4-works-graphical-manual-flow/
+For further details visit https://www.v3cube.com/uber-clone/ and begin your journey into the world of the on-demand taxi app entrepreneurship.
+-  Check uber clone app graphical flow https://www.v3cube.com/how-uber-clone-works/
 -  Uber Taxi Clone Features https://www.v3cube.com/uber-script-features/
 -  Taxi App Web Panel Flow https://www.v3cube.com/uber-visuals/
 -  Driver, Rider and Taxi Company Admin Panel https://www.v3cube.com/uber-admin-visuals/
 -  Uber Clone Demo, Interaction between rider and driver from ride booking to trip completed https://www.v3cube.com/uber-clone-demo/
 -  Pricing Package https://www.v3cube.com/uber-clone-price/
--  Taxi Driver and Rider Live Demo Video https://youtu.be/LIDW_fkc9qY
+-  Taxi Driver and Rider Live Demo Video https://youtu.be/oD051ddoqIg
