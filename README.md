@@ -17,3 +17,7 @@ For further details visit https://www.v3cube.com/uber-clone/ and begin your jour
 -  Uber Clone Demo, Interaction between rider and driver from ride booking to trip completed https://www.v3cube.com/uber-clone-demo/
 -  Pricing Package https://www.v3cube.com/uber-clone-price/
 -  Taxi Driver and Rider Live Demo Video https://youtu.be/oD051ddoqIg
+
+Past & Existing customers
+=========================
+We have lots of customers from countires like Malaysia, Philippines, Cambodia, Indonesia, Thailand, Vietnam, United States (USA), Brazil, Nigeria, Canada, United Kingdom (UK), Kenya, UAE, Egypt, Ethiopia and many more. Ideally, you can have your Uber Clone App based taxi booking Apps business anywhere in the world.
