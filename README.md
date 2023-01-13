@@ -1,4 +1,4 @@
-Uber Clone
+Uber Clone (uber-clone or Uber Clone App or uber-clone-app)
 =================
 Uber clone taxi booking app has been designed to fill in a void that other Taxi on-demand services do not have; simply by adding features that are unique to this Uber clone app only. The features that we have on our Uber clone Script include:
 -  Easy sign in and sign up facility for both user and driver
