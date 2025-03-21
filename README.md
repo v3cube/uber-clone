@@ -28,15 +28,13 @@ Technology Stack We Use to Build Uber Clone
 ===========================================
 The V3Cube team is efficient and skilled, working with the latest technologies to ensure we deliver the best results. Therefore, we believe in building our apps with the latest technologies, ensuring they deliver maximum results for your business.
 
-For iOS:
-=======
+**For iOS:**
 •	Language: Swift
 •	IDE: XCode
 •	Database: User Default
 •	Push Notification: Apple Push Notification Service
 
-For Android:
-============
+**For Android:**
 •	Language: Java & Kotlin
 •	IDE: Android Studio
 •	Database: Realm
