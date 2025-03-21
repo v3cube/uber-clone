@@ -51,41 +51,65 @@ The V3Cube team is efficient and skilled, working with the latest technologies t
 Back-end:
 =========
 •	Language: HTML, CSS, PHP & Node.js 
+
 •	Framework: Express.js & jQuery
+
 •	Database: MongoDB or MySql
 
 Additional Technologies:
 ========================
 •	Payment Gateway: Stripe & More 
+
 •	Maps and Location Services: Google Maps API, OpenStreetMaps & MapBox
+
 •	In-App Chat, Voice & Video Call: WebSocket & SocketCluster
 
 Uber Clone App Key Features
 ============================
 **Biometric Authentication Login:** iPhone users can log in to the app using their Face ID. Android users can log in using a fingerprint scan.
+
 **Taxi Request:** Users can request a taxi whenever they need to go anywhere, with complete information about the fare, taxi capacity, and distance.
+
 **Book Ride for Someone Else:** Users can request a taxi ride for someone else not having the App. Tap on ‘Book Ride for Someone Else’; the cab will be booked, and details will be shared via SMS.
+
 **Book Taxi in Advance:** The user can request or book a ride for a later time and will send the driver at that time. It can be a 2am ride to the airport or a 10am ride for a meeting.
+
 **Real-Time Tracking:** The user can see the live activity or movement of the driver in the App. This will tell users the estimated time of arrival of the driver.
+
 **Intercity Ride:** User can book a ride to travel from one city to another city with the matching budget, time, and date of travel.
+
 **Taxi Pool/Ride Share:** The user can book a seat in a taxi ride going in the same direction as he wants. He can book a number seat and pay for it instead of paying for the whole taxi ride.
+
 **Enter Destination:** Users can specify the trip destination while booking the ride. They have the option to save the destination for later.
+
 **Change Destination Address:** The user can change the destination at any time during or before the trip. This change can be made multiple times.
+
 **In-App Notification:** Both the driver and user will be notified via push notifications of any activity that occurs within the app, such as trip acceptance, expected additional fees, etc.
+
 **Estimated Fare Calculation:** The user will be shown the estimated fare for the trip based on the pickup and drop-off locations entered.
+
 **Emergency Button:** This button allows riders to press the alarm if they feel threatened during the ride. A simple click of a button will automatically send a "Help" message to 3 emergency contacts, the app administrator, and the local police. The message is delivered with the rider's exact location!
+
 **Video Call Option:** In addition to voice call and chat options, a video call option is available for users and drivers to talk to each other.
+
 **Multiple Payment Gateway:** Users can pay for the taxi ride as per their convenience through card, cash, or in-app wallet.
+
 **Rate and Review Driver:** After the trip is completed, the user will be able to rate and review the driver based on their experience.
+
 **Trip History:** The user and driver can easily view their trip history with details such as distance and fare for previous trips.
 
 What's New in Uber Clone App 2025?
 ===================================
 Our apps are designed with market trends and technologies in mind. Therefore, we have integrated some features into the Uber Clone 2025 app.
+
 **Google Maps Navigation:** This feature will allow drivers to open Google Maps navigation within the app. This means the driver will not have to leave the taxi app to view and navigate Google Maps.
+
 **In-Side-Live Taxi Video Recording:** This feature allows drivers to record a video of the taxi's interior view during the ride. It enhances driver safety, is optional, and can be turned on and off by the app owner.
+
 **OTP via WhatsApp:** Allow your users to receive an OTP via WhatsApp to log in and verify their phone number during registration.
+
 **Multiple Ride Options:** Give your users more taxi options, such as standard taxis, premium taxis, shared taxis, electric taxis, pet-friendly taxis, taxis with assistants, wheelchair-accessible taxis, airport taxis, motorcycle rides, and more, enhancing their travel experience.
+
 **More**
 Our Uber Clone app was coded and designed from scratch. We created the app using our deep understanding and analysis of current market trends. Keeping strict industry standards in mind, we continually improve our apps and keep them updated in terms of technology and features.
 
