@@ -1,7 +1,9 @@
 Introduction
 ============
 Do you want to launch a technologically advanced taxi company? An Uber-like app is the best business opportunity for you. Along with the latest features, you also get the guarantee of the best development technology stack!
+
 Several factors play a role when choosing the right mobile app for your taxi booking business. The chances of your app being robust and able to scale seamlessly depend largely on choosing the right technology stack.
+
 Any rash or wrong decision when choosing mobile app technologies will have a significant impact on the app and its performance, as well as on future growth. Therefore, an on-demand taxi booking app should have a negative impact on its current performance and future growth prospects.
 
 How Uber Clone App Work?
