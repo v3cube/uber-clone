@@ -50,16 +50,16 @@ The V3Cube team is efficient and skilled, working with the latest technologies t
 
 •	Push Notifications: Firebase Cloud Messaging 
 
-Back-end:
-=========
+**Back-end:**
+
 •	Language: HTML, CSS, PHP & Node.js 
 
 •	Framework: Express.js & jQuery
 
 •	Database: MongoDB or MySql
 
-Additional Technologies:
-========================
+**Additional Technologies:**
+
 •	Payment Gateway: Stripe & More 
 
 •	Maps and Location Services: Google Maps API, OpenStreetMaps & MapBox
