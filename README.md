@@ -30,8 +30,11 @@ The V3Cube team is efficient and skilled, working with the latest technologies t
 
 **For iOS:**
 •	Language: Swift
+
 •	IDE: XCode
+
 •	Database: User Default
+
 •	Push Notification: Apple Push Notification Service
 
 **For Android:**
