@@ -100,9 +100,9 @@ Uber Clone App Key Features
 
 **Trip History:** The user and driver can easily view their trip history with details such as distance and fare for previous trips.
 
-What's New in Uber Clone App 2025?
+What's New in Uber Clone App 2026?
 ===================================
-Our apps are designed with market trends and technologies in mind. Therefore, we have integrated some features into the Uber Clone 2025 app.
+Our apps are designed with market trends and technologies in mind. Therefore, we have integrated some features into the Uber Clone 2026 app.
 
 **Google Maps Navigation:** This feature will allow drivers to open Google Maps navigation within the app. This means the driver will not have to leave the taxi app to view and navigate Google Maps.
 
